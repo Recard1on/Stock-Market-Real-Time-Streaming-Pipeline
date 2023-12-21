@@ -17,13 +17,13 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 1.S3 (Simple Storage Service)
 
-1.Athena
+2.Athena
 
-1.Glue Crawler
+3.Glue Crawler
 
-1.Glue Catalog
+4.Glue Catalog
 
-1.Conduktor
+5.Conduktor
 
 ### Kafka-Conduktor
 ![](https://github.com/Recard1on/Stock-Market-Real-Time-Streaming-Pipeline/blob/main/conduktor_kafka.png)
