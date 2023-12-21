@@ -16,9 +16,13 @@ We are going to use different technologies such as Python, Amazon Web Services (
 * Docker
 
 1.S3 (Simple Storage Service)
+
 1.Athena
+
 1.Glue Crawler
+
 1.Glue Catalog
+
 1.Conduktor
 
 ### Kafka-Conduktor
